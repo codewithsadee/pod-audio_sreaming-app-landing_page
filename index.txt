@@ -1,0 +1,132 @@
+Pod - Live podcast app landing page
+
+
+# header
+
+alt = Pod logo
+
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+Features
+Overview
+Blog
+Pricing
+FAQ's
+
+Get started
+
+<ion-icon name="menu"></ion-icon>
+
+
+# hero
+
+The most powerful audio streamer for devices
+Download now
+
+
+# download
+
+<ion-icon name="logo-apple"></ion-icon>
+Free downoad for iPhone
+
+alt = divider image
+
+<ion-icon name="logo-android"></ion-icon>
+Free downoad for Android
+
+
+# features
+
+Apple AirPlay
+Each time a digital asset is purchased or sold, Sequoir is donates a percentage
+
+SONOS Wireless HiFi
+Each time a digital asset is purchased or sold, Sequoir is donates a percentage
+
+alt = circle audio waveform
+alt = pod app
+
+Samsung Multiroom
+Each time a digital asset is purchased or sold, Sequoir is donates a percentage
+
+Strategy & Design
+Each time a digital asset is purchased or sold, Sequoir is donates a percentage
+
+
+# overview
+
+alt = overview banner
+
+Enjoy your music everywhere!
+Each time a digital asset is purchased or sold, Sequoir donates a percentage of the fees back into the development
+
+<ion-icon name="wifi"></ion-icon>
+Works exactly like original Apple AirPlay
+
+<ion-icon name="musical-notes"></ion-icon>
+AirAudio recognizes if you are listening to your music
+
+<ion-icon name="star"></ion-icon>
+Create shortcuts for your favorite receivers
+
+
+# blog
+
+Latest Blog & Stories
+
+alt = See How People Are Using Your Website With Hotjar
+05 Fab, 2022
+See How People Are Using Your Website With Hotjar
+Each time a digital asset is purchased or sold, Sequoir donates a percentage
+
+alt = 5 Tips to Write Your Own Website Copy
+06 Fab, 2022
+5 Tips to Write Your Own Website Copy
+Each time a digital asset is purchased or sold, Sequoir donates a percentage
+
+alt = 5 Brilliant Apps That Will Make Your Life Better
+10 Fab, 2022
+5 Brilliant Apps That Will Make Your Life Better
+Each time a digital asset is purchased or sold, Sequoir donates a percentage
+
+
+# footer
+
+alt = pod logo
+
+Follow us on
+
+href = https://youtube.com/c/codewithsadee
+<ion-icon name="logo-youtube"></ion-icon>
+
+href = https://github.com/codewithsadee
+<ion-icon name="logo-github"></ion-icon>
+
+href = https://twitter.com/codewithsadee
+<ion-icon name="logo-twitter"></ion-icon>
+
+href = https://instagram.com/codewithsadee
+<ion-icon name="logo-instagram"></ion-icon>
+
+Company
+About Us
+Features
+Pricing
+
+Products
+Blog
+Help Center
+Contact
+
+Resources
+FAQ’S
+Testimonial
+Terms & Conditions
+
+alt = apple store
+alt = google play store
+
+&copy; Copyrights 2022 codewithsadee All rights reserved.
+
+<ion-icon name="chevron-up"></ion-icon>
